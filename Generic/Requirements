@@ -1,0 +1,9 @@
+
+
+1.there must be diff league, like, bundesliga, la liga, UCLA
+2.In one league only two game in a year with opponent--> one in home and another is away game.
+3.in two diff league, there must not be any effect of another league. another system
+4.
+
+arsenal.add(Player) should ok,  but not arsenal.add(new FootballTeam());-->solved.
+arsenal.add(cricketplayer), arsenal.add(BasketBallPlayer) should give error, but not showing any error.
